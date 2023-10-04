@@ -9,6 +9,9 @@ Para começar as tecnologias usadas foram **Selenium** , **ChatGPT**
 Para começar executar o arquivo **Main.py**
 
 Ele ira acessar esse site https://br.indeed.com
+para configuração da chave API do chatgpt usei um arquivo com nome de senha e a chave dentro de uma variavel chamada **API_KEY**:
+![image](https://github.com/Tiago-Alcantara/Mensagens_Pesonalizadas_Automaticas/assets/121049408/f52d601f-e2d4-4725-a6b8-23bdea1709c1)
+
 
 e vai ir para Acessar para poder fazer o login enquanto isso ele vai da um input no codigo para quando logar no site só dar um enter:
 ![image](https://github.com/Tiago-Alcantara/Mensagens_Pesonalizadas_Automaticas/assets/121049408/a0b836e3-0669-4be5-8b60-2095c78cb300)
