@@ -8,8 +8,9 @@ Para começar as tecnologias usadas foram **Selenium** , **ChatGPT**
 
 Para começar executar o arquivo **Main.py**
 
-Ele ira acessar esse site https://br.indeed.com
-para configuração da chave API do chatgpt usei um arquivo com nome de senha e a chave dentro de uma variavel chamada **API_KEY**:
+Ele ira acessar esse site https://br.indeed.com.
+
+Para configuração da chave API do chatgpt usei um arquivo com nome de senha e a chave dentro de uma variavel chamada **API_KEY** para melhor endimento pode acessar esse [tutorial](https://www.hashtagtreinamentos.com/como-usar-api-do-chatgpt)
 ![image](https://github.com/Tiago-Alcantara/Mensagens_Pesonalizadas_Automaticas/assets/121049408/f52d601f-e2d4-4725-a6b8-23bdea1709c1)
 
 
